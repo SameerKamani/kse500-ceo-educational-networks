@@ -20,7 +20,7 @@ This project demonstrates how education acts as a gateway—and barrier—to cor
 ## Data Sources
 - Curated from PSX, Stock-Analysis.com, LinkedIn, Market Screener, and annual reports.
 - Includes 298 CEOs and 171 institutions (filtered for completeness).
-- **Note**: Static 2025 snapshot; may have biases toward publicly visible profiles. Dataset available in `data/` (anonymized where needed).
+- **Note**: Static 2025 snapshot; may have biases toward publicly visible profiles. Dataset available in folders accordingly .
 
 ## Key Visualizations
 The project's visualizations are central to understanding the network structures, clusters, and distributions.
@@ -43,8 +43,6 @@ The project's visualizations are central to understanding the network structures
 
 
 
-Additionally, key tables (e.g., centrality measures) can be rendered as Markdown in the full report or notebooks for deeper dives.
-
 ## Limitations & Future Work
 - **Limitations**: Incomplete data (e.g., missing undergrad details) introduces bias; static snapshot misses generational trends.
 - **Future Directions**: Enhance dataset completeness, differentiate by degree levels (Bachelor's/Master's/PhD), and deepen CEO community analysis.
@@ -53,7 +51,9 @@ Additionally, key tables (e.g., centrality measures) can be rendered as Markdown
 See the full report  `Research_Report.pdf` for detailed citations. Key works include Hambrick's Upper Echelons Theory and Semenova's SNA on German executives.
 
 ## License
-This project is licensed under the MIT License—feel free to use, modify, and contribute!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+For questions or contributions, contact the authors at Sameerkamani03@gmail.com.
 
 ---
 
