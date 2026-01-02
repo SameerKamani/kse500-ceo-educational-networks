@@ -1,4 +1,5 @@
 # Pathways to Power: Educational Networks in Pakistan's Corporate Elite
+  ![Figure Full](Images/Poster.png)  
 
 ## Project Overview
 This repository hosts the source code, dataset, and analysis for the research paper **"Pathways to Power: A Network Analysis of Educational Pipelines in the KSE-500"** by Sameer Kamani and Rana Mohammad Sarib Khan (December 5, 2025). 
@@ -26,19 +27,19 @@ This project demonstrates how education acts as a gateway—and barrier—to cor
 The project's visualizations are central to understanding the network structures, clusters, and distributions.
 
 - **Figure 1: Top 10 Institutions by Degree**  
-  ![Figure 3](Images/Top10_Inst.png)  
+  ![Figure 1](Images/Top10_Inst.png)  
   *Bar graph showing IBA leading with 34 CEOs.*
 
 - **Figure 2: Giant Component of the Institution-Institution Projection**  
-  ![Figure 4](Images/Inst_inst.png)  
+  ![Figure 2](Images/Inst_inst.png)  
   *Visualizes the core academic collaboration network based on shared alumni.*
 
 - **Figure 3: Communities within the Institution-Institution Projection**  
-  ![Figure 5](Images/Inst_Inst_community.jpeg)  
+  ![Figure 3](Images/Inst_Inst_community.jpeg)  
   *Color-coded clusters in the giant component.*
 
 - **Figure 4: Giant Component of the CEO-CEO Projection**  
-  ![Figure 10](Images/Ceo_Ceo.jpeg)  
+  ![Figure 4](Images/Ceo_Ceo.jpeg)  
   *Illustrates the "Old Boys Club" with shared alma maters.*
 
 
