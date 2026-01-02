@@ -25,49 +25,23 @@ This project demonstrates how education acts as a gateway—and barrier—to cor
 ## Key Visualizations
 The project's visualizations are central to understanding the network structures, clusters, and distributions.
 
-- **Figure 1: Distribution of CEOs Across Institutions**  
-  ![Figure 1](figures/figure1_ceo_distribution.png)  
-  *Highlights the dominance of major feeder universities like IBA. (Placeholder: Add your extracted image here.)*
-
-- **Figure 2: Log-Log Plot of Institution Degree Distribution**  
-  ![Figure 2](figures/figure2_loglog_plot.png)  
-  *Demonstrates the scale-free nature and preferential attachment. (Placeholder: Add your extracted image here.)*
-
-- **Figure 3: Top 10 Institutions by Degree**  
+- **Figure 1: Top 10 Institutions by Degree**  
   ![Figure 3](figures/figure3_top10_bar.png)  
   *Bar graph showing IBA leading with 34 CEOs. (Placeholder: Add your extracted image here.)*
 
-- **Figure 4: Giant Component of the Institution-Institution Projection**  
+- **Figure 2: Giant Component of the Institution-Institution Projection**  
   ![Figure 4](figures/figure4_giant_component.png)  
   *Visualizes the core academic collaboration network based on shared alumni. (Placeholder: Add your extracted image here.)*
 
-- **Figure 5: Communities within the Institution-Institution Projection**  
+- **Figure 3: Communities within the Institution-Institution Projection**  
   ![Figure 5](figures/figure5_communities.png)  
   *Color-coded clusters in the giant component. (Placeholder: Add your extracted image here.)*
 
-- **Figure 6: Graph of Cluster A: Tech-Business Nexus**  
-  ![Figure 6](figures/figure6_tech_nexus.png)  
-  *Dense Karachi-based cluster with IBA, NED, NUST, and FAST. (Placeholder: Add your extracted image here.)*
-
-- **Figure 7: Graph of Cluster B: Lahore-International Axis**  
-  ![Figure 7](figures/figure7_lahore_axis.png)  
-  *Prestige pathway linking LUMS/UET Lahore to Oxbridge. (Placeholder: Add your extracted image here.)*
-
-- **Figure 8: Graph of Cluster C: National Legacy and Accounting Cluster**  
-  ![Figure 8](figures/figure8_national_legacy.png)  
-  *Public sector anchors like Punjab University and ICAP. (Placeholder: Add your extracted image here.)*
-
-- **Figure 9: Graph of Cluster D: UK Cluster**  
-  ![Figure 9](figures/figure9_uk_cluster.png)  
-  *Finance-oriented around LSE and ICAEW. (Placeholder: Add your extracted image here.)*
-
-- **Figure 10: Giant Component of the CEO-CEO Projection**  
+- **Figure 4: Giant Component of the CEO-CEO Projection**  
   ![Figure 10](figures/figure10_ceo_component.png)  
   *Illustrates the "Old Boys Club" with shared alma maters. (Placeholder: Add your extracted image here.)*
 
-- **Figure 11: Communities within the CEO-CEO Projection**  
-  ![Figure 11](figures/figure11_ceo_communities.png)  
-  *9 fragmented communities in the CEO network. (Placeholder: Add your extracted image here.)*
+
 
 Additionally, key tables (e.g., centrality measures) can be rendered as Markdown in the full report or notebooks for deeper dives.
 
