@@ -26,11 +26,11 @@ This project demonstrates how education acts as a gateway—and barrier—to cor
 The project's visualizations are central to understanding the network structures, clusters, and distributions.
 
 - **Figure 1: Top 10 Institutions by Degree**  
-  ![Figure 3](Images/Top10_Inst.jpeg)  
+  ![Figure 3](Images/Top10_Inst.png)  
   *Bar graph showing IBA leading with 34 CEOs.*
 
 - **Figure 2: Giant Component of the Institution-Institution Projection**  
-  ![Figure 4](Images/Inst_Inst.jpeg)  
+  ![Figure 4](Images/Inst_Inst.png)  
   *Visualizes the core academic collaboration network based on shared alumni.*
 
 - **Figure 3: Communities within the Institution-Institution Projection**  
