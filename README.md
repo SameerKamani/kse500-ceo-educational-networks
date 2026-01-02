@@ -1,7 +1,7 @@
 # Pathways to Power: Educational Networks in Pakistan's Corporate Elite
 
 ## Project Overview
-This repository hosts the source code, dataset, and analysis for the research paper **"Pathways to Power: A Network Analysis of Educational Pipelines in the KSE-500"** by Rana Mohammad Sarib Khan and Sameer Kamani (December 5, 2025). 
+This repository hosts the source code, dataset, and analysis for the research paper **"Pathways to Power: A Network Analysis of Educational Pipelines in the KSE-500"** by Sameer Kamani and Rana Mohammad Sarib Khan (December 5, 2025). 
 
 Using social network analysis (SNA), we examine the educational backgrounds of 298 CEOs from Pakistan's top 500 listed companies (KSE-500). The study uncovers a scale-free, small-world network dominated by "super-hubs" like the Institute of Business Administration (IBA) and Punjab University. It reveals regional fragmentation (e.g., Karachi vs. Lahore) bridged by international institutions, highlighting how shared alma maters reinforce elite reproduction and form an "Old Boys Club" among corporate leaders.
 
