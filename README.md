@@ -30,7 +30,7 @@ The project's visualizations are central to understanding the network structures
   *Bar graph showing IBA leading with 34 CEOs.*
 
 - **Figure 2: Giant Component of the Institution-Institution Projection**  
-  ![Figure 4](Images/Inst_Inst.png)  
+  ![Figure 4](Images/Inst_inst.png)  
   *Visualizes the core academic collaboration network based on shared alumni.*
 
 - **Figure 3: Communities within the Institution-Institution Projection**  
