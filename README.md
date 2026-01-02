@@ -27,19 +27,19 @@ The project's visualizations are central to understanding the network structures
 
 - **Figure 1: Top 10 Institutions by Degree**  
   ![Figure 3](Images/Top10_Inst.jpeg)  
-  *Bar graph showing IBA leading with 34 CEOs. (Placeholder: Add your extracted image here.)*
+  *Bar graph showing IBA leading with 34 CEOs.*
 
 - **Figure 2: Giant Component of the Institution-Institution Projection**  
   ![Figure 4](Images/Inst_Inst.jpeg)  
-  *Visualizes the core academic collaboration network based on shared alumni. (Placeholder: Add your extracted image here.)*
+  *Visualizes the core academic collaboration network based on shared alumni.*
 
 - **Figure 3: Communities within the Institution-Institution Projection**  
   ![Figure 5](Images/Inst_Inst_community.jpeg)  
-  *Color-coded clusters in the giant component. (Placeholder: Add your extracted image here.)*
+  *Color-coded clusters in the giant component.*
 
 - **Figure 4: Giant Component of the CEO-CEO Projection**  
   ![Figure 10](Images/Ceo_Ceo.jpeg)  
-  *Illustrates the "Old Boys Club" with shared alma maters. (Placeholder: Add your extracted image here.)*
+  *Illustrates the "Old Boys Club" with shared alma maters.*
 
 
 
